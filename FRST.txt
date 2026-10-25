@@ -1,0 +1,377 @@
+Результат сканирования Farbar Recovery Scan Tool (FRST) (x64) Версия: 15-09-2026
+Запущено с помощью ultra (Администратор) на DESKTOP-LQQ7MSQ (16-09-2026 16:05:11)
+Запущено из K:\\FRST64.exe
+Загруженные профили: ultra
+Платформа: Майкрософт Windows 10 Pro Версия 22H2 19045.6456 (X64) Язык: Русский (Россия)
+Браузер по умолчанию: Yandex Browser
+Режим загрузки: Normal
+
+==================== Процессы (В белом списке) =================
+
+(Если запись включена в fixlist, процесс будет закрыт. Файл не будет перемещён.)
+
+() [Файл не подписан] D:\best\zapret-discord-youtube-1.10.2\zapret-discord-youtube-1.10.2\bin\winws.exe
+(C:\Program Files (x86)\Common Files\Java\Java Update\jusched.exe ->) (Oracle America, Inc. -> Oracle Corporation) C:\Program Files (x86)\Common Files\Java\Java Update\jucheck.exe
+(C:\Program Files (x86)\Kaspersky Lab\Kaspersky Anti-Virus 21.3\avp.exe ->) (Kaspersky Lab JSC -> AO Kaspersky Lab) C:\Program Files (x86)\Kaspersky Lab\Kaspersky Anti-Virus 21.3\avpui.exe
+(C:\Program Files\Razer\RazerAppEngine\app-4.0.821\RazerAppEngine.exe ->) (Razer USA Ltd. -> Razer Inc.) C:\Program Files\Razer\RazerAppEngine\app-4.0.821\CommonDLL\RzEngineMon.exe
+(C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26080.3-0\MsMpEng.exe ->) (Microsoft Windows -> Microsoft Corporation) C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26080.3-0\DefenderSessionHelper.exe
+(D:\soft\PostgreSQL\bin\pg_ctl.exe ->) (PostgreSQL Global Development Group) [Файл не подписан] D:\soft\PostgreSQL\bin\postgres.exe
+(explorer.exe ->) (AIMP DevTeam) [Файл не подписан] C:\Program Files (x86)\AIMP2\AIMP2.exe
+(explorer.exe ->) (Plantronics -> ) C:\Program Files\Plantronics\HD1\optimus3D_x64.exe
+(explorer.exe ->) (Realtek Semiconductor Corp. -> Realtek Semiconductor) C:\Program Files\Realtek\Audio\HDA\RAVCpl64.exe
+(Microsoft Corporation -> Microsoft Corporation) C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+(NVIDIA Corporation -> NVIDIA Corporation) C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe <2>
+(NVIDIA Corporation -> NVIDIA Corporation) C:\Windows\System32\DriverStore\FileRepository\nvmdi.inf_amd64_e227f8012ba9a683\Display.NvContainer\NVDisplay.Container.exe
+(Oracle America, Inc. -> Oracle Corporation) C:\Program Files (x86)\Common Files\Java\Java Update\jusched.exe
+(PostgreSQL Global Development Group) [Файл не подписан] D:\soft\PostgreSQL\bin\postgres.exe <9>
+(Privacy Technologies OU -> Amnezia) C:\Program Files\AmneziaWG\amneziawg.exe
+(Razer USA Ltd. -> Razer Inc.) C:\Program Files\Razer\RazerAppEngine\app-4.0.821\RazerAppEngine.exe <9>
+(services.exe ->) () [Файл не подписан] D:\soft\azot\resources\clash-verge-service.exe
+(services.exe ->) (ABBYY Development Inc. -> ABBYY Development, Inc.) C:\Program Files\Common Files\ABBYY\FineReader\16\Licensing\NetworkLicenseServer.exe
+(services.exe ->) (Intel Corporation -> Intel Corporation) C:\Windows\System32\DriverStore\FileRepository\dal.inf_amd64_af50fdb80983f7bc\jhi_service.exe
+(services.exe ->) (Intel Corporation -> Intel Corporation) C:\Windows\System32\DriverStore\FileRepository\lms.inf_amd64_a55aa2cd52a3429d\LMS.exe
+(services.exe ->) (Intel Corporation -> Intel Corporation) C:\Windows\System32\DriverStore\FileRepository\mewmiprov.inf_amd64_d51901c26227fb29\WMIRegistrationService.exe
+(services.exe ->) (Kaspersky Lab JSC -> AO Kaspersky Lab) C:\Program Files (x86)\Kaspersky Lab\Kaspersky Anti-Virus 21.3\avp.exe
+(services.exe ->) (Microsoft Corporation -> Microsoft Corporation) C:\Program Files\Common Files\microsoft shared\ClickToRun\OfficeClickToRun.exe
+(services.exe ->) (Microsoft Windows -> Microsoft Corporation) C:\Program Files\Microsoft Update Health Tools\uhssvc.exe
+(services.exe ->) (Microsoft Windows Publisher -> Microsoft Corporation) C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26080.3-0\MpDefenderCoreService.exe
+(services.exe ->) (Microsoft Windows Publisher -> Microsoft Corporation) C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26080.3-0\MsMpEng.exe
+(services.exe ->) (Microsoft Windows Publisher -> Microsoft Corporation) C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26080.3-0\NisSrv.exe
+(services.exe ->) (NVIDIA Corporation -> NVIDIA Corporation) C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe
+(services.exe ->) (NVIDIA Corporation -> NVIDIA Corporation) C:\Windows\System32\DriverStore\FileRepository\nvmdi.inf_amd64_e227f8012ba9a683\Display.NvContainer\NVDisplay.Container.exe
+(services.exe ->) (PostgreSQL Global Development Group) [Файл не подписан] D:\soft\PostgreSQL\bin\pg_ctl.exe
+(services.exe ->) (Privacy Technologies OU -> Amnezia) C:\Program Files\AmneziaWG\amneziawg.exe
+(services.exe ->) (Razer USA Ltd. -> Razer Inc) C:\Program Files (x86)\Razer\Razer Services\GMS3\GameManagerService3.exe
+(services.exe ->) (Razer USA Ltd. -> Razer Inc) C:\Program Files\Razer\razer_elevation_service\razer_elevation_service.exe
+(services.exe ->) (Skowsand Tecnologia Ltda -> Intel(R) Corporation) C:\Program Files\ExitLag\ExitLagPmService.exe
+(svchost.exe ->) (Microsoft Corporation -> ) C:\Program Files\WindowsApps\microsoft.windowscalculator_10.2103.8.0_x64__8wekyb3d8bbwe\Calculator.exe
+(svchost.exe ->) (Microsoft Windows -> Microsoft Corporation) C:\Windows\System32\dllhost.exe <3>
+(svchost.exe ->) (Microsoft Windows -> Microsoft Corporation) C:\Windows\System32\smartscreen.exe
+(svchost.exe ->) (Microsoft Windows -> Microsoft Corporation) C:\Windows\SysWOW64\wbem\WmiPrvSE.exe
+(YANDEX LLC -> YANDEX LLC) C:\Users\ultra\AppData\Local\Yandex\YandexBrowser\Application\browser.exe <21>
+
+==================== Реестр Windows (В белом списке) ===================
+
+(Если запись включена в fixlist, элемент реестра будет сброшен на значение по умолчанию или удалён. Файл не будет перемещён.)
+
+HKLM\...\Run: [RTHDVCPL] => C:\Program Files\Realtek\Audio\HDA\RAVCpl64.exe [16696840 2016-09-14] (Realtek Semiconductor Corp. -> Realtek Semiconductor)
+HKLM\...\Run: [GamecomSound] => C:\Program Files\Plantronics\HD1\optimus3D_x64.exe [3321632 2015-10-19] (Plantronics -> )
+HKLM-x32\...\Run: [SunJavaUpdateSched] => C:\Program Files (x86)\Common Files\Java\Java Update\jusched.exe [752208 2025-04-05] (Oracle America, Inc. -> Oracle Corporation)
+HKLM\SYSTEM\...\Terminal Server: [fDenyTSConnections] = 0 <==== ВНИМАНИЕ
+HKU\S-1-5-21-2203301790-1028413396-194731535-1001\...\Run: [Steam] => D:\Program Files\Steam\steam.exe [5775512 2026-09-03] (Valve Corp. -> Valve Corporation)
+HKU\S-1-5-21-2203301790-1028413396-194731535-1001\...\Run: [Discord] => C:\Users\ultra\AppData\Local\Discord\Update.exe [1522176 2022-06-08] (Discord Inc. -> GitHub)
+HKU\S-1-5-21-2203301790-1028413396-194731535-1001\...\Run: [EpicGamesLauncher] => D:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe [37104080 2023-03-20] (Epic Games Inc. -> Epic Games, Inc.)
+HKU\S-1-5-21-2203301790-1028413396-194731535-1001\...\Run: [Opera Stable] => C:\Users\ultra\AppData\Local\Programs\Opera\opera.exe [2808776 2026-05-28] (Opera Norway AS -> Opera Software)
+HKU\S-1-5-21-2203301790-1028413396-194731535-1001\...\Run: [Windscribe] => "D:\soft\Windscribe\Windscribe.exe" -os_restart (Нет файла)
+HKU\S-1-5-21-2203301790-1028413396-194731535-1001\...\Run: [YandexBrowserAutoLaunch_CAD6121EFBF46D509D0C3C7A6F1EDB89] => C:\Users\ultra\AppData\Local\Yandex\YandexBrowser\Application\browser.exe [6183880 2026-09-10] (YANDEX LLC -> YANDEX LLC)
+HKU\S-1-5-21-2203301790-1028413396-194731535-1001\...\Run: [NoPingUpdater] => D:\soft\noping\NoPingUpdater.exe [1442464 2026-02-09] (1NCRIVEL SISTEMAS LTDA -> NoPing)
+HKU\S-1-5-21-2203301790-1028413396-194731535-1001\...\Run: [RazerAppEngine] => C:\Program Files\Razer\RazerAppEngine\RazerAppEngine.exe [1281736 2026-08-28] (Razer USA Ltd. -> Razer Inc.)
+HKU\S-1-5-21-2203301790-1028413396-194731535-1001\...\Run: [Claude] => C:\Users\ultra\AppData\Local\AnthropicClaude\claude.exe [363168 2026-08-23] (Anthropic, PBC -> Anthropic)
+HKU\S-1-5-21-2203301790-1028413396-194731535-1001\...\Run: [MicrosoftEdgeAutoLaunch_ED30B30E582C99A464D0639632B3FD8A] => "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --no-startup-window --win-session-start [5417288 2026-09-10] (Microsoft Corporation -> Microsoft Corporation)
+HKU\S-1-5-18\...\Run: [Synapse3] => C:\Program Files (x86)\Razer\Synapse3\WPFUI\Framework\Razer Synapse 3 Host\Razer Synapse 3.exe /StartMinimized (Нет файла)
+
+==================== Запланированные задачи (В белом списке) =================
+
+(Если запись включена в fixlist, она будет удалена из реестра. Файл не будет удалён, если он не указан отдельно.)
+
+Task: {061F582F-55FE-4C08-B860-77CCEB1D0B00} - \Microsoft\Windows\UpdateOrchestrator\StartOobeAppsScan_LicenseAccepted -> Нет файла <==== ВНИМАНИЕ
+Task: {16EAA03E-545B-45A5-8B00-7690A934C098} - \Microsoft\Windows\Clip\ClipESU -> Нет файла <==== ВНИМАНИЕ
+Task: {3093E50F-CE38-40D0-8F47-7DA37BA5AB37} - \Microsoft\Windows\ConsentUX\UnifiedConsent\UnifiedConsentSyncTask -> Нет файла <==== ВНИМАНИЕ
+Task: {4BCB8677-89DE-4511-9772-D392DBE34A2B} - \Microsoft\Windows\Clip\ClipEsuConsumerProcessPreOrder -> Нет файла <==== ВНИМАНИЕ
+Task: {58E7E5A0-0097-4062-9110-A83974F6F4EF} - \Microsoft\Windows\MemoryDiagnostic\DecompressionFailureDetector -> Нет файла <==== ВНИМАНИЕ
+Task: {5D0B254A-4865-4F41-8D4E-789CBA857E01} - \Microsoft\Windows\MemoryDiagnostic\MemUsageTask -> Нет файла <==== ВНИМАНИЕ
+Task: {6C014FAA-A84B-4382-A284-032E861147D6} - \Microsoft\Windows\Clip\ClipESUConsumerProcessECUpdate -> Нет файла <==== ВНИМАНИЕ
+Task: {70E27D78-F2B5-4B88-B130-5D8F5AC95A19} - \Microsoft\Windows\Application Experience\MareBackup -> Нет файла <==== ВНИМАНИЕ
+Task: {758DB811-8C77-45D3-AAAB-E6ACEB8A62F0} - \Microsoft\Windows\Clip\ClipESUConsumer -> Нет файла <==== ВНИМАНИЕ
+Task: {7B4CEFE2-9D51-4A1B-BBFF-DE4AC38B6CFC} - \Microsoft\Windows\Printing\PrinterCleanupTask -> Нет файла <==== ВНИМАНИЕ
+Task: {88E9A840-32D5-4CB3-A85C-DE111A209201} - \Microsoft\Windows\Registry\rgnupdt-cleanup -> Нет файла <==== ВНИМАНИЕ
+Task: {8F138A51-37B7-4E38-92C2-F8C57F6F1BDD} - \Microsoft\Windows\Shell\ThemesSyncedImageDownload -> Нет файла <==== ВНИМАНИЕ
+Task: {9569B369-9D3F-47F7-9E87-CCF796CBF79E} - \Microsoft\Windows\WindowsUpdate\Refresh Group Policy Cache -> Нет файла <==== ВНИМАНИЕ
+Task: {9663958E-82D2-43DA-A9C0-EC6AF9065BE1} - \Microsoft\Windows\Registry\OOBE-Maintenance -> Нет файла <==== ВНИМАНИЕ
+Task: {97E54EF5-DB40-4FC3-831B-87EF9A543316} - \Microsoft\Windows\AppxDeploymentClient\UCPD velocity -> Нет файла <==== ВНИМАНИЕ
+Task: {A2A23DD5-2C15-400F-9F69-A7058AF069F3} - \Microsoft\Windows\Clip\LicenseImdsIntegration -> Нет файла <==== ВНИМАНИЕ
+Task: {A5CA1011-C408-453C-A909-74EFBF8C9154} - \Microsoft\Windows\Registry\rgnupdt-run -> Нет файла <==== ВНИМАНИЕ
+Task: {B09A758B-09FE-4062-B504-FB3C81D417BD} - \Microsoft\Windows\Management\Autopilot\RemediateHardwareChange -> Нет файла <==== ВНИМАНИЕ
+Task: {B33A55A1-0C70-4B4C-8C23-75009CC3721F} - \Microsoft\Windows\CloudRestore\Backup -> Нет файла <==== ВНИМАНИЕ
+Task: {C0CDD6A7-CC8A-445F-A59C-21E11FE983E2} - \Microsoft\Windows\Management\Autopilot\DetectHardwareChange -> Нет файла <==== ВНИМАНИЕ
+Task: {C935854E-63B2-4BCC-A69C-04A1A56E232E} - \Microsoft\Windows\Clip\ClipEsuConsumerProcessRefund -> Нет файла <==== ВНИМАНИЕ
+Task: {C95463E8-082A-42D1-B990-A9BCD2F6F858} - \Microsoft\Windows\MemoryDiagnostic\CorruptionDetector -> Нет файла <==== ВНИМАНИЕ
+Task: {CA5663E4-D8D0-4EE5-8F41-66F8D6D765AA} - \Microsoft\Windows\AppListBackup\BackupNonMaintenance -> Нет файла <==== ВНИМАНИЕ
+Task: {DC912953-7E17-4352-9A6A-5B2091E2DC30} - \Microsoft\Windows\UpdateOrchestrator\StartOobeAppsScanAfterUpdate -> Нет файла <==== ВНИМАНИЕ
+Task: {F1086856-DA6E-4A77-92C8-153264CF1AC2} - \Microsoft\Windows\UpdateOrchestrator\StartOobeAppsScan_OobeAppReady -> Нет файла <==== ВНИМАНИЕ
+Task: {F7F5EA77-6D88-4679-A8B1-D3A8B7014354} - \Microsoft\Windows\UpdateOrchestrator\Start Oobe Expedite Work -> Нет файла <==== ВНИМАНИЕ
+Task: {F9B1356D-B6D6-450E-BAD5-3F026136AE1C} - \Microsoft\Windows\Clip\EnableClipESU -> Нет файла <==== ВНИМАНИЕ
+Task: {F0BC11BA-75D7-4090-A7D4-4759D8CA7EE4} - System32\Tasks\Intel PTT EK Recertification => C:\WINDOWS\System32\DriverStore\FileRepository\iclsclient.inf_amd64_76523213b78d9046\lib\IntelPTTEKRecertification.exe [818008 2021-09-15] (Intel Corporation -> Intel(R) Corporation)
+Task: {A970912E-45B7-48F8-9A37-FDA6A5C5F55C} - System32\Tasks\Microsoft\Windows\Windows Defender\Windows Defender Cache Maintenance => C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.2205.7-0\MpCmdRun.exe  -IdleTask -TaskName WdCacheMaintenance (Нет файла)
+Task: {784AFEF0-7647-43C9-8F6A-286A91FE18E7} - System32\Tasks\Microsoft\Windows\Windows Defender\Windows Defender Cleanup => C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.2205.7-0\MpCmdRun.exe  -IdleTask -TaskName WdCleanup (Нет файла)
+Task: {AC94CFA8-C253-41A3-9456-FC1DDD55C5B4} - System32\Tasks\Microsoft\Windows\Windows Defender\Windows Defender Scheduled Scan => C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.2205.7-0\MpCmdRun.exe  Scan -ScheduleJob -ScanTrigger 55 -IdleScheduledJob (Нет файла)
+Task: {7A4DF5B6-B1AE-4EBB-8403-F9519FC547C5} - System32\Tasks\Microsoft\Windows\Windows Defender\Windows Defender Verification => C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.2205.7-0\MpCmdRun.exe  -IdleTask -TaskName WdVerification (Нет файла)
+Task: {B222E573-D7AE-405B-B3E1-DBFC1C6981B7} - System32\Tasks\Opera scheduled Autoupdate 1655039412 => C:\Users\ultra\AppData\Local\Programs\Opera\launcher.exe  --scheduledautoupdate $(Arg0) (Нет файла)
+
+(Если запись включена в fixlist, файл задачи (.job) будет перемещён. Файл, выполняемый задачей, не будет перемещён.)
+
+Task: C:\WINDOWS\Tasks\EOSv3 Scheduler onLogOn.job => C:\Users\ultra\AppData\Local\ESET\ESETOnlineScanner\ESETOnlineScanner.exe
+Task: C:\WINDOWS\Tasks\EOSv3 Scheduler onTime.job => C:\Users\ultra\AppData\Local\ESET\ESETOnlineScanner\ESETOnlineScanner.exe
+Task: C:\WINDOWS\Tasks\Intel PTT EK Recertification.job => C:\WINDOWS\System32\DriverStore\FileRepository\iclsclient.inf_amd64_76523213b78d9046\lib\IntelPTTEKRecertification.exe
+Task: C:\WINDOWS\Tasks\IntelSURQC-Upgrade-86621605-2a0b-4128-8ffc-15514c247132.job => C:\Program Files\Intel\SUR\QUEENCREEK\Updater\bin\IntelSoftwareAssetManagerService.exe
+Task: C:\WINDOWS\Tasks\Kaspersky_Upgrade_Launcher_{278ADC42-419D-4547-A6CA-5B74BE0AD901}.job => C:\Program Files\Common Files\AV\Kaspersky Lab\upgrade_launcher.exe
+Task: C:\WINDOWS\Tasks\NVIDIA App SelfUpdate_{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}.job => C:\Program Files\NVIDIA Corporation\NVIDIA App\CEF\NVIDIA App.exe
+Task: C:\WINDOWS\Tasks\Session agent for Process Lasso.job => D:\films\Process Lasso Pro 18.1.0.44 (& Portable) by elchupacabra\ProcessLasso\App\ProcessLasso64\bitsumsessionagent.exe
+Task: C:\WINDOWS\Tasks\Обновление Браузера Яндекс.job => C:\Users\ultra\AppData\Local\Yandex\YandexBrowser\Application\browser.exe
+
+==================== Internet (В белом списке) ====================
+
+(Если элемент включён в fixlist, если он является элементом реестра, он будет удалён или сброшен на значение по умолчанию.)
+
+ProxyServer: [S-1-5-21-2203301790-1028413396-194731535-1001] => 127.0.0.1:7897
+Tcpip\Parameters: [DhcpNameServer] 192.168.50.1
+Tcpip\..\Interfaces\{1a31e1eb-b522-4b6d-917a-7dc78d768c34}: [NameServer] 127.0.0.1
+Tcpip\..\Interfaces\{fd2778dd-10af-49fc-9344-e98bbc5f3a05}: [DhcpNameServer] 192.168.50.1
+
+FireFox:
+========
+FF DefaultProfile: drftoiph.default-default -> 83C1C0F3FA8524B1
+FF ProfilePath: C:\Users\ultra\AppData\Roaming\Mozilla\Firefox\Profiles\nahd6ha2.default [2026-01-08]
+FF Homepage: Mozilla\Firefox\Profiles\nahd6ha2.default -> hxxps://www.yandex.ru/?win=547&clid=2413707-15
+FF SearchPlugin: C:\Users\ultra\AppData\Roaming\Mozilla\Firefox\Profiles\nahd6ha2.default\searchplugins\yandex.ru-20225025.xml [2022-06-25]
+FF ProfilePath: C:\Users\ultra\AppData\Roaming\librewolf\Profiles\ysquebbf.default [2024-12-19]
+FF ProfilePath: C:\Users\ultra\AppData\Roaming\librewolf\Profiles\drftoiph.default-default [2025-01-07]
+FF Extension: (uBlock Origin) - C:\Users\ultra\AppData\Roaming\librewolf\Profiles\drftoiph.default-default\Extensions\uBlock0@raymondhill.net.xpi [2024-12-19]
+FF HKLM\...\Firefox\Extensions: [light_plugin_7571494CE0B94E11BB762B659A4AD71F@kaspersky.com] - C:\Program Files (x86)\Kaspersky Lab\Kaspersky Anti-Virus 21.3\FFExt\light_plugin_firefox\addon.xpi => не найдено
+FF HKLM-x32\...\Firefox\Extensions: [light_plugin_7571494CE0B94E11BB762B659A4AD71F@kaspersky.com] - C:\Program Files (x86)\Kaspersky Lab\Kaspersky Anti-Virus 21.3\FFExt\light_plugin_firefox\addon.xpi => не найдено
+FF Plugin: @java.com/DTPlugin,version=11.451.0 -> C:\Program Files\Java\jre1.8.0_451\bin\dtplugin\npDeployJava1.dll [2025-04-05] (Oracle America, Inc. -> Oracle Corporation)
+FF Plugin: @java.com/JavaPlugin,version=11.451.0 -> C:\Program Files\Java\jre1.8.0_451\bin\plugin2\npjp2.dll [2025-04-05] (Oracle America, Inc. -> Oracle Corporation)
+FF Plugin: @microsoft.com/SharePoint,version=14.0 -> C:\Program Files\Microsoft Office\root\Office16\NPSPWRAP.DLL [2023-09-09] (Microsoft Corporation -> Microsoft Corporation)
+FF Plugin: @videolan.org/vlc,version=3.0.17.4 -> C:\Program Files\VideoLAN\VLC\npvlc.dll [2022-03-24] (VideoLAN -> VideoLAN)
+FF Plugin-x32: @microsoft.com/SharePoint,version=14.0 -> C:\Program Files\Microsoft Office\root\VFS\ProgramFilesX86\Microsoft Office\Office16\NPSPWRAP.DLL [2023-09-09] (Microsoft Corporation -> Microsoft Corporation)
+
+Edge: 
+=======
+Edge DefaultProfile: Default
+Edge Profile: C:\Users\ultra\AppData\Local\Microsoft\Edge\User Data\Default [2026-09-13]
+Edge HomePage: Default -> hxxps://www.yandex.ru/?win=416&clid=2323222
+Edge StartupUrls: Default -> "hxxps://go.microsoft.com/fwlink/?LinkId=625119&clcid=0x419"
+Edge DefaultSearchURL: Default -> {bing:baseURL}search?q={searchTerms}&{bing:cvid}{bing:msb}{google:assistedQueryStats}
+Edge DefaultSearchKeyword: Default -> bing.com
+Edge DefaultNewTabURL: Default -> {bing:baseURL}chrome/newtab
+Edge DefaultSuggestURL: Default -> {bing:baseURL}qbox?query={searchTerms}&language={language}&{bing:partner}{bing:cvid}{bing:msb}{bing:ig}{bing:baseQuery}{google:inputType}{google:cursorPosition}{google:pageClassification}{bing:features}{bing:flights}
+Edge Extension: (Adblock - бесплатный блокировщик рекламы) - C:\Users\ultra\AppData\Local\Microsoft\Edge\User Data\Default\Extensions\cbjpcgekjlihaodeiilfkggoecehejie [2026-01-08] [UpdateUrl:0] <==== ВНИМАНИЕ
+Edge Extension: (Google Документы офлайн) - C:\Users\ultra\AppData\Local\Microsoft\Edge\User Data\Default\Extensions\ghbmnnjooekpmoecnnnilnnbdlolhkhi [2026-08-26]
+Edge Extension: (Edge relevant text changes) - C:\Users\ultra\AppData\Local\Microsoft\Edge\User Data\Default\Extensions\jmjflgjpcpepeafmmgdpfkogkghcpiha [2024-01-28]
+Edge HKU\S-1-5-21-2203301790-1028413396-194731535-1001\SOFTWARE\Microsoft\Edge\Extensions\...\Edge\Extension: [ahkjpbeeocnddjkakilopmfdlnjdpcdm]
+
+Chrome: 
+=======
+CHR HKLM\...\Chrome\Extension: [ahkjpbeeocnddjkakilopmfdlnjdpcdm] - hxxps://chromewebstore.google.com/detail/kaspersky-protection/ahkjpbeeocnddjkakilopmfdlnjdpcdm
+CHR HKU\S-1-5-21-2203301790-1028413396-194731535-1001\SOFTWARE\Google\Chrome\Extensions\...\Chrome\Extension: [pchfckkccldkbclgdepkaonamkignanh]
+CHR HKLM-x32\...\Chrome\Extension: [ahkjpbeeocnddjkakilopmfdlnjdpcdm] - hxxps://chromewebstore.google.com/detail/kaspersky-protection/ahkjpbeeocnddjkakilopmfdlnjdpcdm
+
+Opera: 
+=======
+OPR DefaultProfile: Default
+
+Yandex: 
+=======
+YAN Profile: C:\Users\ultra\AppData\Local\Yandex\YandexBrowser\User Data\Default [2026-09-16]
+YAN Notifications: Default -> hxxps://app.zoom.us; hxxps://distrosea.com; hxxps://web.whatsapp.com; hxxps://yandex.ru
+YAN Extension: (Adblock Plus - бесплатный блокировщик рекламы) - C:\Users\ultra\AppData\Local\Yandex\YandexBrowser\User Data\Default\Extensions\cfhdojbkjhnklbpkdaibdccddilifddb [2026-09-16]
+YAN Extension: (Adblock - бесплатный блокировщик рекламы) - C:\Users\ultra\AppData\Local\Yandex\YandexBrowser\User Data\Default\Extensions\ddaagkbpcjlmnocghfpcbhfmhgdlafed [2026-01-08] [UpdateUrl:0] <==== ВНИМАНИЕ
+YAN Extension: (VPN бесплатно ZenMate - Free VPN Chrome) - C:\Users\ultra\AppData\Local\Yandex\YandexBrowser\User Data\Default\Extensions\fdcgdnkidjaadafnichfpabhfomcebme [2024-05-16]
+YAN Extension: (Stylish — настраиваемые темы для любого сайта) - C:\Users\ultra\AppData\Local\Yandex\YandexBrowser\User Data\Default\Extensions\fjnbnpbmkenffdnngjfgmeleoegfcffe [2026-07-31]
+YAN Extension: (Бесплатный VPN для Chrome, ВПН с блокировщиком рекламы — Planet VPN) - C:\Users\ultra\AppData\Local\Yandex\YandexBrowser\User Data\Default\Extensions\hipncndjamdcmphkgngojegjblibadbe [2026-09-01]
+YAN Extension: (Врубель - VPN для YouTube за 1 руб в день) - C:\Users\ultra\AppData\Local\Yandex\YandexBrowser\User Data\Default\Extensions\pfpolingmjapeepkjhnimfaofmlhhfbf [2026-08-27]
+
+==================== Службы (В белом списке) ===================
+
+(Если запись включена в fixlist, она будет удалена из реестра. Файл не будет удалён, если он не указан отдельно.)
+
+R2 ABBYY.Licensing.FineReader.16.0; C:\Program Files\Common Files\ABBYY\FineReader\16\Licensing\NetworkLicenseServer.exe [1528968 2023-01-18] (ABBYY Development Inc. -> ABBYY Development, Inc.)
+R2 AmneziaWGManager; C:\Program Files\AmneziaWG\amneziawg.exe [9105056 2026-02-27] (Privacy Technologies OU -> Amnezia)
+R2 AVP21.3; C:\Program Files (x86)\Kaspersky Lab\Kaspersky Anti-Virus 21.3\avp.exe [184768 2024-08-01] (Kaspersky Lab JSC -> AO Kaspersky Lab)
+S4 BEService; C:\Program Files (x86)\Common Files\BattlEye\BEService.exe [9712432 2022-08-25] (BattlEye Innovations e.K. -> )
+R2 clash_verge_service; D:\soft\azot\resources\clash-verge-service.exe [909824 2025-03-25] () [Файл не подписан]
+R2 ClickToRunSvc; C:\Program Files\Common Files\Microsoft Shared\ClickToRun\OfficeClickToRun.exe [9200552 2023-07-07] (Microsoft Corporation -> Microsoft Corporation)
+S4 EasyAntiCheat; C:\Program Files (x86)\EasyAntiCheat\EasyAntiCheat.exe [1135648 2024-04-01] (EasyAntiCheat Oy -> Epic Games, Inc)
+S4 EasyAntiCheat_EOS; C:\Program Files (x86)\EasyAntiCheat_EOS\EasyAntiCheat_EOS.exe [966384 2025-02-07] (EasyAntiCheat Oy -> Epic Games, Inc.)
+S4 EpicOnlineServices; C:\Program Files (x86)\Epic Games\Epic Online Services\service\EpicOnlineServicesHost.exe [934352 2022-07-11] (Epic Games Inc. -> Epic Games, Inc.)
+S3 EQU8_39; C:\ProgramData\EQU8\KovaaK's\bin\anticheat.x64.equ8.exe [8344720 2022-07-24] (Int3 Software AB -> Int3 Software AB)
+R2 ExitLagPmService; C:\Program Files\ExitLag\ExitLagPmService.exe [3595968 2026-08-06] (Skowsand Tecnologia Ltda -> Intel(R) Corporation)
+S3 klvssbridge64_21.3; C:\Program Files (x86)\Kaspersky Lab\Kaspersky Anti-Virus 21.3\x64\vssbridge64.exe [479280 2021-02-19] (Kaspersky Lab JSC -> AO Kaspersky Lab)
+R2 MDCoreSvc; C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26080.3-0\MpDefenderCoreService.exe [2307816 2026-09-04] (Microsoft Windows Publisher -> Microsoft Corporation)
+R2 NVDisplay.ContainerLocalSystem; C:\WINDOWS\System32\DriverStore\FileRepository\nvmdi.inf_amd64_e227f8012ba9a683\Display.NvContainer\NVDisplay.Container.exe [1275624 2026-01-21] (NVIDIA Corporation -> NVIDIA Corporation)
+R2 postgresql-x64-18; D:\soft\PostgreSQL\bin\pg_ctl.exe [133120 2026-06-11] (PostgreSQL Global Development Group) [Файл не подписан]
+S3 ProcessGovernor; D:\films\Process Lasso Pro 18.1.0.44 (& Portable) by elchupacabra\ProcessLasso\App\ProcessLasso64\processgovernor.exe [1361392 2026-05-05] (Bitsum Technologies (Bitsum LLC) -> Bitsum LLC) [Файл не подписан]
+R3 Razer Elevation Service; C:\Program Files\Razer\razer_elevation_service\razer_elevation_service.exe [1741960 2025-10-25] (Razer USA Ltd. -> Razer Inc)
+R2 Razer Game Manager Service 3; C:\Program Files (x86)\Razer\Razer Services\GMS3\GameManagerService3.exe [394440 2025-10-31] (Razer USA Ltd. -> Razer Inc)
+S3 Sense; C:\Program Files\Windows Defender Advanced Threat Protection\MsSense.exe [803064 2025-11-22] (Microsoft Windows Publisher -> Microsoft Corporation)
+R3 WdNisSvc; C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26080.3-0\NisSrv.exe [5311736 2026-09-04] (Microsoft Windows Publisher -> Microsoft Corporation)
+R2 WinDefend; C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26080.3-0\MsMpEng.exe [291360 2026-09-04] (Microsoft Windows Publisher -> Microsoft Corporation)
+
+===================== Драйверы (В белом списке) ===================
+
+(Если запись включена в fixlist, она будет удалена из реестра. Файл не будет удалён, если он не указан отдельно.)
+
+S3 AppleKmdfFilter; C:\WINDOWS\System32\drivers\AppleKmdfFilter.sys [20032 2020-10-09] (WDKTestCert build,132303256403278908 -> Apple Inc.)
+S3 AppleLowerFilter; C:\WINDOWS\System32\drivers\AppleLowerFilter.sys [35976 2020-10-09] (WDKTestCert build,132303256403278908 -> Apple Inc.)
+R0 cm_km; C:\WINDOWS\System32\DRIVERS\cm_km.sys [237288 2024-08-01] (Microsoft Windows Hardware Compatibility Publisher -> AO Kaspersky Lab)
+S3 hostpacket; \??\C:\Windows\System32\drivers\hostpacket.sys [38472 2023-08-15] (Microsoft Windows Hardware Compatibility Publisher -> )
+R1 ISODrive; \??\C:\Program Files (x86)\UltraISO\drivers\ISODrv64.sys [135600 2021-08-08] (Shenzhen Yibo Digital Systems Development Co., Ltd. -> )
+S1 klbackupdisk; C:\WINDOWS\system32\DRIVERS\klbackupdisk.sys [105280 2024-08-01] (Microsoft Windows Hardware Compatibility Publisher -> AO Kaspersky Lab)
+S1 klbackupflt; C:\WINDOWS\System32\DRIVERS\klbackupflt.sys [206600 2024-08-01] (Microsoft Windows Hardware Compatibility Publisher -> AO Kaspersky Lab)
+R1 kldisk; C:\WINDOWS\system32\DRIVERS\kldisk.sys [119568 2024-08-01] (Microsoft Windows Hardware Compatibility Publisher -> AO Kaspersky Lab)
+S0 klelam; C:\WINDOWS\System32\DRIVERS\klelam.sys [41656 2021-02-19] (Microsoft Windows Early Launch Anti-malware Publisher -> AO Kaspersky Lab)
+R1 klflt; C:\WINDOWS\system32\DRIVERS\klflt.sys [533040 2024-08-01] (Microsoft Windows Hardware Compatibility Publisher -> AO Kaspersky Lab)
+R1 klgse; C:\WINDOWS\System32\DRIVERS\klgse.sys [865864 2026-07-21] (Microsoft Windows Hardware Compatibility Publisher -> Kaspersky)
+R1 klhk; C:\WINDOWS\system32\DRIVERS\klhk.sys [3373128 2026-07-21] (Microsoft Windows Hardware Compatibility Publisher -> Kaspersky)
+R3 klids; \??\C:\ProgramData\Kaspersky Lab\AVP21.3\Bases\klids.sys [242808 2026-09-16] (Microsoft Windows Hardware Compatibility Publisher -> )
+R1 KLIF; C:\WINDOWS\System32\DRIVERS\klif.sys [1051184 2024-08-01] (Microsoft Windows Hardware Compatibility Publisher -> AO Kaspersky Lab)
+R1 klim6; C:\WINDOWS\system32\DRIVERS\klim6.sys [90896 2024-08-01] (Microsoft Windows Hardware Compatibility Publisher -> AO Kaspersky Lab)
+S3 klkbdflt; C:\WINDOWS\system32\DRIVERS\klkbdflt.sys [104728 2024-08-01] (Microsoft Windows Hardware Compatibility Publisher -> AO Kaspersky Lab)
+R4 klkbdflt2; C:\WINDOWS\system32\DRIVERS\klkbdflt2.sys [81176 2024-08-01] (Microsoft Windows Hardware Compatibility Publisher -> AO Kaspersky Lab)
+S3 klmouflt; C:\WINDOWS\system32\DRIVERS\klmouflt.sys [107328 2024-08-01] (Microsoft Windows Hardware Compatibility Publisher -> AO Kaspersky Lab)
+R1 klpd; C:\WINDOWS\System32\DRIVERS\klpd.sys [78088 2024-08-01] (Microsoft Windows Hardware Compatibility Publisher -> AO Kaspersky Lab)
+S1 klpnpflt; C:\WINDOWS\system32\DRIVERS\klpnpflt.sys [88328 2024-08-01] (Microsoft Windows Hardware Compatibility Publisher -> AO Kaspersky Lab)
+U0 klupd_klif_arkmon; C:\WINDOWS\System32\Drivers\klupd_klif_arkmon.sys [462304 2026-09-16] (Microsoft Windows Hardware Compatibility Publisher -> Kaspersky)
+U3 klupd_klif_arkmon_982BDBD5; \??\C:\ProgramData\Kaspersky Lab\AVP21.3\Temp\982BDBD5EBBC4973BB42E624917C12E9\klupd_klif_arkmon.sys [462304 2026-09-16] (Microsoft Windows Hardware Compatibility Publisher -> )
+U3 klupd_klif_klark; C:\WINDOWS\System32\Drivers\klupd_klif_klark.sys [371360 2026-09-16] (Microsoft Windows Hardware Compatibility Publisher -> Kaspersky)
+U0 klupd_klif_klbg; C:\WINDOWS\System32\Drivers\klupd_klif_klbg.sys [155472 2026-09-16] (Microsoft Windows Hardware Compatibility Publisher -> Kaspersky)
+U3 klupd_klif_mark; C:\WINDOWS\System32\Drivers\klupd_klif_mark.sys [303752 2026-09-16] (Microsoft Windows Hardware Compatibility Publisher -> Kaspersky)
+S4 klwfp; C:\WINDOWS\system32\DRIVERS\klwfp.sys [150280 2024-08-01] (Microsoft Windows Hardware Compatibility Publisher -> AO Kaspersky Lab)
+R1 klwtp; C:\WINDOWS\system32\DRIVERS\klwtp.sys [325400 2024-08-01] (Microsoft Windows Hardware Compatibility Publisher -> AO Kaspersky Lab)
+R1 kneps; C:\WINDOWS\system32\DRIVERS\kneps.sys [294680 2024-08-01] (Microsoft Windows Hardware Compatibility Publisher -> AO Kaspersky Lab)
+R3 KslD; C:\WINDOWS\System32\drivers\wd\KslD.sys [83008 2026-09-04] (Microsoft Windows -> Microsoft Corporation)
+R1 ndextlag; C:\WINDOWS\system32\DRIVERS\ndextlag.sys [59696 2023-03-16] (WHIMSTERS FINANCIAL SOLUTIONS LTD -> Skowsand Tecnologia LTDA)
+R1 networx; C:\WINDOWS\System32\drivers\networx.sys [103496 2022-05-03] (Microsoft Windows Hardware Compatibility Publisher -> Windows (R) Win 7 DDK provider)
+R1 nfextlag; C:\WINDOWS\System32\drivers\nfextlag.sys [126896 2026-08-01] (Skowsand Tecnologia Ltda -> Windows (R) Win 7 DDK provider)
+R3 PLTHD1; C:\WINDOWS\System32\drivers\RIG5020HD.sys [4206560 2015-10-15] (WDKTestCert Robert,130802973755980687 -> Plantronics)
+R3 RzCommon; C:\WINDOWS\System32\drivers\RzCommon.sys [64880 2023-09-26] (Razer USA Ltd. -> Razer Inc)
+S3 RzDev_0084; C:\WINDOWS\System32\drivers\RzDev_0084.sys [54152 2020-08-24] (Razer USA Ltd. -> Razer Inc)
+S3 RzDev_00b2; C:\WINDOWS\System32\drivers\RzDev_00b2.sys [63224 2022-05-30] (Razer USA Ltd. -> Razer Inc)
+R3 RzDev_00be; C:\WINDOWS\System32\drivers\RzDev_00be.sys [65368 2025-01-06] (Razer USA Ltd. -> Razer Inc)
+S3 sshid; C:\WINDOWS\System32\drivers\sshid.sys [48936 2020-07-24] (SteelSeries ApS -> SteelSeries ApS)
+R3 tap0901; C:\WINDOWS\System32\drivers\tap0901.sys [27136 2020-05-05] (OpenVPN Technologies, Inc. -> The OpenVPN Project)
+S3 tapprotonvpn; C:\WINDOWS\System32\drivers\tapprotonvpn.sys [49024 2022-10-07] (Microsoft Windows Hardware Compatibility Publisher -> The OpenVPN Project)
+S3 tapwindscribe0901; C:\WINDOWS\System32\drivers\tapwindscribe0901.sys [54896 2018-07-06] (Windscribe Limited -> The OpenVPN Project)
+S4 WdAiNisDrv; C:\WINDOWS\System32\drivers\wd\WdAiNisDrv.sys [51224 2026-09-04] (Microsoft Windows -> Microsoft Corporation)
+S0 WdBoot; C:\WINDOWS\System32\drivers\wd\WdBoot.sys [21672 2026-09-04] (Microsoft Windows Early Launch Anti-malware Publisher -> Microsoft Corporation)
+R0 WdFilter; C:\WINDOWS\System32\drivers\wd\WdFilter.sys [660504 2026-09-04] (Microsoft Windows -> Microsoft Corporation)
+R3 WdNisDrv; C:\WINDOWS\System32\drivers\wd\WdNisDrv.sys [137240 2026-09-04] (Microsoft Windows -> Microsoft Corporation)
+R4 WinDivert; \??\D:\best\zapret-discord-youtube-1.10.2\zapret-discord-youtube-1.10.2\bin\WinDivert64.sys [94144 2026-08-24] (成都密思听科技有限公司 -> )
+S3 wintun; C:\WINDOWS\system32\DRIVERS\wintun.sys [29592 2023-07-21] (Microsoft Windows Hardware Compatibility Publisher -> WireGuard LLC)
+S3 equ8_helper; \??\C:\WINDOWS\system32\DRIVERS\equ8_helper.sys (Нет файла)
+S3 JYNetFilter; \??\C:\Users\ultra\AppData\Local\LagoFast\JYNetFilter8.sys (Нет файла)
+S3 netfilter2wfp; \??\C:\Users\ultra\AppData\Local\LagoFast\netfilter2wfp8.sys (Нет файла)
+S1 npfilter.sys; system32\drivers\npfilter.sys.sys (Нет файла)
+S3 wtbt; \??\d:\program files\steam\steamapps\common\super people playtest\engine\binaries\thirdparty\wondertrust\wtdrv64.sys (Нет файла)
+
+==================== SvcHost (В белом списке) ===================
+
+(Если запись включена в fixlist, она будет удалена из реестра. Файл не будет удалён, если он не указан отдельно.)
+
+
+==================== Один месяц (создан) (В белом списке) =========
+
+(Если запись включена в лист исправлений, файл/папка будут перемещены.)
+
+2026-09-16 16:02 - 2026-09-16 16:05 - 000000000 ____D C:\FRST
+2026-09-16 12:53 - 2026-09-16 12:53 - 000002284 _____ C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Kaspersky Anti-Virus.lnk
+2026-09-16 12:53 - 2026-09-16 12:53 - 000000358 _____ C:\WINDOWS\Tasks\Kaspersky_Upgrade_Launcher_{278ADC42-419D-4547-A6CA-5B74BE0AD901}.job
+2026-09-16 12:53 - 2021-02-19 21:09 - 000110176 _____ (Kaspersky Lab ZAO) C:\WINDOWS\system32\klfphc.dll
+2026-09-16 12:52 - 2026-09-16 12:52 - 000000000 ____D C:\Program Files (x86)\Kaspersky Lab
+2026-09-16 12:41 - 2026-07-05 18:49 - 000000000 _____ C:\WINDOWS\system32\Drivers\etc\2026-09-16_12-41_hosts.bak
+2026-09-16 11:53 - 2026-09-16 11:53 - 000000536 _____ C:\WINDOWS\Tasks\Session agent for Process Lasso.job
+2026-09-16 11:53 - 2026-09-16 11:53 - 000000000 ____D C:\Users\ultra\AppData\Roaming\ProcessLasso
+2026-09-16 11:53 - 2026-09-16 11:53 - 000000000 ____D C:\Users\ultra\AppData\Local\ProcessLasso
+2026-09-16 11:53 - 2026-09-16 11:53 - 000000000 ____D C:\ProgramData\ProcessLasso
+2026-09-12 19:12 - 2026-09-12 19:12 - 000268467 _____ C:\Users\ultra\Dropbox\Мой ПК (DESKTOP-LQQ7MSQ)\Desktop\Мистер робот Mr. Robot Сезон 1-4 Серии 1-45 (Сэм Эсмейл, Джим МакКэй, Триша Брок) [2015-2019, США, драма, криминал, WEB-DL [rutracker-5744512].torrent
+2026-09-06 19:14 - 2026-09-13 15:25 - 000000072 _____ C:\Users\ultra\.python_history
+2026-09-04 12:27 - 2026-09-04 12:28 - 000000000 ____D C:\Users\ultra\AppData\Local\SeriousSamShatterverse
+2026-08-28 13:41 - 2026-08-28 13:41 - 000000000 ____D C:\Users\ultra\AppData\Roaming\DataRecommendations
+2026-08-28 13:41 - 2026-08-28 13:41 - 000000000 ____D C:\Users\ultra\AppData\Local\DataRecommendation
+2026-08-23 20:41 - 2026-08-23 21:03 - 000000000 ____D C:\Users\ultra\Dropbox\Мой ПК (DESKTOP-LQQ7MSQ)\Desktop\сценарий
+2026-08-23 20:40 - 2026-08-23 20:40 - 000000000 ____D C:\Users\ultra\AppData\LocalLow\Temp
+2026-08-23 20:39 - 2026-08-23 20:39 - 000011091 _____ C:\Users\ultra\Downloads\Урок_1_Сценарий.md
+2026-08-23 20:03 - 2026-08-23 20:03 - 000000000 ____D C:\Users\ultra\AppData\Local\Claude
+2026-08-20 20:07 - 2026-08-21 17:56 - 000001633 _____ C:\Users\ultra\Dropbox\Мой ПК (DESKTOP-LQQ7MSQ)\Desktop\last.txt
+
+==================== Один месяц (изменён) ==================
+
+(Если запись включена в лист исправлений, файл/папка будут перемещены.)
+
+2026-09-16 16:08 - 2022-06-12 16:41 - 000000000 ____D C:\Users\ultra\AppData\Roaming\AIMP
+2026-09-16 15:57 - 2023-06-09 01:07 - 000000000 ____D C:\Users\ultra\AppData\Local\CrashDumps
+2026-09-16 15:49 - 2022-06-12 17:10 - 000000000 ____D C:\Users\ultra\AppData\Roaming\discord
+2026-09-16 15:37 - 2023-04-28 18:19 - 000000460 _____ C:\WINDOWS\Tasks\Обновление Браузера Яндекс.job
+2026-09-16 15:30 - 2022-06-12 17:10 - 000000000 ____D C:\Users\ultra\AppData\Local\Discord
+2026-09-16 15:28 - 2022-10-15 19:00 - 000000000 ____D C:\Users\ultra\AppData\Local\NVIDIA Corporation
+2026-09-16 12:55 - 2022-06-12 16:01 - 001752888 _____ C:\WINDOWS\system32\PerfStringBackup.INI
+2026-09-16 12:55 - 2022-06-12 15:43 - 000770570 _____ C:\WINDOWS\system32\perfh019.dat
+2026-09-16 12:55 - 2022-06-12 15:43 - 000151816 _____ C:\WINDOWS\system32\perfc019.dat
+2026-09-16 12:55 - 2022-06-12 15:41 - 000000000 ____D C:\WINDOWS\INF
+2026-09-16 12:53 - 2024-11-14 18:01 - 000000000 ____D C:\Program Files\Common Files\AV
+2026-09-16 12:53 - 2022-06-12 15:38 - 000032768 _____ C:\WINDOWS\system32\config\ELAM
+2026-09-16 12:52 - 2026-08-12 12:49 - 000000000 ____D C:\ProgramData\Kaspersky Lab
+2026-09-16 12:52 - 2025-01-09 08:42 - 000000000 ____D C:\ProgramData\Kaspersky Lab Setup Files
+2026-09-16 12:52 - 2022-06-12 15:42 - 000000000 ___HD C:\WINDOWS\ELAMBKUP
+2026-09-16 12:49 - 2022-06-12 16:06 - 000000000 ____D C:\ProgramData\NVIDIA
+2026-09-16 12:49 - 2022-06-12 15:42 - 000000000 ____D C:\ProgramData\regid.1991-06.com.microsoft
+2026-09-16 12:48 - 2022-06-12 15:51 - 000000006 ____H C:\WINDOWS\Tasks\SA.DAT
+2026-09-16 12:48 - 2022-06-12 15:50 - 000008192 ___SH C:\DumpStack.log.tmp
+2026-09-16 12:48 - 2022-06-12 15:38 - 000524288 _____ C:\WINDOWS\system32\config\BBI
+2026-09-16 12:41 - 2022-06-12 15:53 - 000000000 ____D C:\Users\ultra
+2026-09-16 12:24 - 2026-04-15 16:23 - 000000000 ____D C:\KVRT2020_Data
+2026-09-16 12:01 - 2022-06-14 09:38 - 000000000 ____D C:\Users\ultra\AppData\Roaming\Microsoft\MMC
+2026-09-16 11:53 - 2022-06-12 15:39 - 000000000 ____D C:\WINDOWS\CbsTemp
+2026-09-16 11:45 - 2020-09-02 18:05 - 000000000 ____D C:\Users\ultra\Doctor Web
+2026-09-16 08:53 - 2022-06-12 15:50 - 000000000 ____D C:\WINDOWS\system32\SleepStudy
+2026-09-15 20:09 - 2026-08-16 12:24 - 000000000 ____D C:\Users\ultra\AppData\Roaming\DSH Desktop
+2026-09-14 18:48 - 2026-01-08 15:12 - 000002566 _____ C:\Users\ultra\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Yandex.lnk
+2026-09-14 18:48 - 2026-01-08 15:12 - 000002541 _____ C:\Users\ultra\Dropbox\Мой ПК (DESKTOP-LQQ7MSQ)\Desktop\Yandex.lnk
+2026-09-13 15:50 - 2026-08-12 13:53 - 000000000 ____D C:\Users\ultra\AppData\Roaming\utorrent
+2026-09-13 15:09 - 2022-06-12 16:31 - 000000000 ____D C:\Users\ultra\AppData\Roaming\vlc
+2026-09-13 12:40 - 2022-06-15 21:48 - 000000000 ____D C:\Users\ultra\AppData\Local\BitTorrentHelper
+2026-09-12 10:54 - 2021-04-16 10:37 - 000002450 _____ C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Edge.lnk
+2026-09-11 17:12 - 2022-06-12 16:08 - 000000000 ____D C:\Users\ultra\AppData\Local\D3DSCache
+2026-09-11 14:07 - 2022-06-12 16:58 - 000000000 ____D C:\Users\ultra\AppData\Local\Steam
+2026-09-11 13:01 - 2022-07-20 16:05 - 000000000 ____D C:\WINDOWS\system32\MRT
+2026-09-11 12:58 - 2022-07-20 16:05 - 230964456 ____C (Microsoft Corporation) C:\WINDOWS\system32\MRT.exe
+2026-09-11 09:04 - 2022-06-12 15:42 - 000000000 ____D C:\WINDOWS\SystemTemp
+2026-09-10 19:31 - 2026-07-30 20:20 - 000001450 _____ C:\Users\ultra\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Discord.lnk
+2026-09-10 19:31 - 2022-06-12 17:10 - 000002255 _____ C:\Users\ultra\Dropbox\Мой ПК (DESKTOP-LQQ7MSQ)\Desktop\Discord.lnk
+2026-09-09 18:12 - 2025-07-21 16:52 - 000000000 ____D C:\Users\ultra\Downloads\Telegram Desktop
+2026-09-08 10:01 - 2022-12-18 12:58 - 000000000 ____D C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Razer
+2026-09-04 11:05 - 2022-06-12 15:51 - 000000000 ____D C:\WINDOWS\system32\Drivers\wd
+2026-08-29 10:57 - 2022-06-12 15:42 - 000000000 ___HD C:\Program Files\WindowsApps
+2026-08-29 10:57 - 2022-06-12 15:42 - 000000000 ____D C:\WINDOWS\AppReadiness
+2026-08-28 13:31 - 2023-11-13 06:11 - 000000000 ____D C:\Users\ultra\AppData\Roaming\Microsoft\Excel
+2026-08-25 19:57 - 2023-10-14 06:15 - 000000000 ____D C:\Users\ultra\AppData\Roaming\VPNGame
+2026-08-25 12:24 - 2026-08-16 12:24 - 000000000 ____D C:\Users\ultra\.dsh
+2026-08-25 12:23 - 2026-08-16 12:13 - 000001019 _____ C:\Users\ultra\Dropbox\Мой ПК (DESKTOP-LQQ7MSQ)\Desktop\DSH Desktop.lnk
+2026-08-25 09:59 - 2025-07-19 15:21 - 000001692 _____ C:\Users\ultra\Dropbox\Мой ПК (DESKTOP-LQQ7MSQ)\Desktop\general.lnk
+2026-08-23 22:03 - 2026-04-26 13:49 - 000000000 ____D C:\Users\ultra\AppData\Roaming\Claude
+2026-08-23 20:55 - 2023-09-09 05:28 - 000000000 ____D C:\Users\ultra\AppData\Roaming\Microsoft\Word
+2026-08-23 20:03 - 2026-04-26 13:49 - 000000000 ____D C:\Users\ultra\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Anthropic
+2026-08-23 20:03 - 2026-04-26 13:49 - 000000000 ____D C:\Users\ultra\AppData\Local\AnthropicClaude
+2026-08-19 11:11 - 2022-06-12 16:52 - 000000000 ____D C:\Users\ultra\AppData\Local\ExitLag
+2026-08-19 11:09 - 2024-09-14 12:49 - 000000849 _____ C:\ProgramData\Microsoft\Windows\Start Menu\Programs\ExitLag.lnk
+2026-08-19 11:09 - 2024-09-14 12:49 - 000000000 ____D C:\Program Files\ExitLag
+
+==================== Файлы в корне каталогов ========
+
+2026-07-31 19:00 - 2026-07-31 19:00 - 021080920 _____ (EnterpriseDB) C:\Users\ultra\edb_psqlodbc.exe
+2026-01-08 15:11 - 2026-01-08 15:11 - 000000970 _____ () C:\Users\ultra\setup.dat
+2019-10-01 22:58 - 2019-10-01 22:58 - 000684032 _____ (Speed Guide Inc.) C:\Users\ultra\TCPOptimizer.exe
+2026-01-08 15:12 - 2026-06-16 09:01 - 000000992 _____ () C:\Users\ultra\uTorrentClient.dat
+2021-01-29 13:09 - 2021-01-29 13:09 - 002435072 _____ () C:\Users\ultra\WinMTR.exe
+2025-12-29 19:04 - 2025-05-19 11:40 - 000022680 _____ (OpenLibSys.org) C:\Users\ultra\AppData\Local\JYWinRing0.sys
+2024-01-25 15:25 - 2025-03-20 18:05 - 000007607 _____ () C:\Users\ultra\AppData\Local\resmon.resmoncfg
+
+==================== FLock ==============================
+
+2024-11-14 18:01 C:\Users\ultra\AppData\Local\Programs\transmission
+
+==================== SigCheck ============================
+
+(Нет автоматического исправления файлов, которые не проходят проверку.)
+
+==================== Конец от FRST.txt ========================
